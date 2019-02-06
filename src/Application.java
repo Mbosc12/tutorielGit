@@ -1,6 +1,8 @@
+import java.awt.Canvas;
 import java.awt.Frame;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
+
 
 public class Application extends Frame implements WindowListener {
 
@@ -66,5 +68,4 @@ public class Application extends Frame implements WindowListener {
 		// TODO Auto-generated method stub
 		
 	}
-
 }
